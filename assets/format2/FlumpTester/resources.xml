@@ -1,0 +1,16 @@
+<resources md5="c246a1c56deaa1ab6885611bd4f64c33">
+  <movie name="FlumpTester/Test" frameRate="24">
+    <layer name="Layer 1">
+      <kf duration="29" ref="FlumpTester/Circle" loc="49.5,49.5" pivot="51,51"/>
+      <kf duration="20" ref="FlumpTester/Circle" loc="49.5085,49.5" scale="2.22,1" pivot="51,51" ease="-0.56"/>
+      <kf duration="1" ref="FlumpTester/Circle" loc="49.5053,49.4729" scale="2.22,1" skew="2.3038,2.3038" pivot="51,51" tweened="false"/>
+    </layer>
+  </movie>
+  <textureGroups>
+    <textureGroup scaleFactor="1">
+      <atlas file="format2/FlumpTester/atlas0.png">
+        <texture name="FlumpTester/Circle" rect="1,1,102,102" origin="0.5,0.5"/>
+      </atlas>
+    </textureGroup>
+  </textureGroups>
+</resources>
